@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Triangle_Checking_Program ( Assignment 2)/Triangle_Checking_Program ( Assignment 2).vcxproj" />
+</Solution>

@@ -139,7 +139,8 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.c" />
+    <ClCompile Include="Old main.c" />
+    <ClCompile Include="New main.c" />
     <ClCompile Include="Sign check.c" />
   </ItemGroup>
   <ItemGroup>

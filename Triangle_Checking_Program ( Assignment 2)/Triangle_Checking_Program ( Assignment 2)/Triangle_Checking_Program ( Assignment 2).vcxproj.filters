@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="Old main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Sign check.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="New main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

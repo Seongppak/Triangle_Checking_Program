@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
-    <ClCompile Include="side length.c" />
+    <ClCompile Include="Sign check.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="T_C_P.h" />

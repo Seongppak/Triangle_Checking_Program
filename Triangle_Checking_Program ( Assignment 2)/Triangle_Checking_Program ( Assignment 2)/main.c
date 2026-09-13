@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int side_length(x, y, z); // 부호 판별 함수 선언
+int sign_check(x, y, z); // 부호 판별 함수 선언
 void check_triangle(x, y, z); // 삼각형 판별 함수 선언
 
 int main()
@@ -14,14 +14,14 @@ int main()
 	printf("세 번째 변의 길이를 입력해 주십시오.:");
 	scanf("%d", &z);
 	
-	side_length(x, y, z); // 부호 판별 함수 호출
+	sign_check(x, y, z); // 부호 판별 함수 호출
 	
 	check_triangle(x, y, z); // 삼각형 판별 함수 호출
 	
 	return 0;
 }
 
-int side_length(x, y, z) //세 변 부호 판별 함수 정의
+int sign_check(x, y, z) //세 변 부호 판별 함수 정의
 {
 	if (x > 0 && y > 0 && z > 0)
 	{

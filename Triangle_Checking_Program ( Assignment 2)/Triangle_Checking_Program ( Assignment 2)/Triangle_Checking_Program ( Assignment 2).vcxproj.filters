@@ -24,6 +24,9 @@
     <ClCompile Include="New main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="way 3 main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="T_C_P.h">

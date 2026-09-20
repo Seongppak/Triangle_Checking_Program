@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int sign_check(int x, int y, int z); // 부호 판별 함수 선언
@@ -49,3 +49,4 @@ int check_triangle(int x, int y, int z) // 삼각형 판별 함수 정의
 	else
 		return 0;
 }
+*/

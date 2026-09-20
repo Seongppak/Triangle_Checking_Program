@@ -142,6 +142,7 @@
     <ClCompile Include="Old main.c" />
     <ClCompile Include="New main.c" />
     <ClCompile Include="Sign check.c" />
+    <ClCompile Include="way 3 main.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="T_C_P.h" />
